@@ -1,0 +1,14 @@
+chat 2
+chien 3
+loup 4
+reine 5
+manger 6
+dormir 7
+livre 8
+lit 9
+pomme 10
+France 11
+Corse 12
+Pologne 13
+prix 14
+poubelle 15
